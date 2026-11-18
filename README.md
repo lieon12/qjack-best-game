@@ -1,1 +1,5 @@
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/lieon12/qjack-best-game/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/lieon12/qjack-best-game/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 Star Shepherd is a 2D canvas arcade game: steer a little lantern with the mouse or arrow keys, collect the numbered stars of each constellation in order to relight all six, and dodge the void wisps (which lunge when you come close) and telegraphed comets. Chained collections build a combo multiplier, and shield, ember and frost power-ups help you survive; finish all six constellations to win, lose all three lives and the light goes out. Synthesised WebAudio sounds, a best score kept in the browser, and start, pause, win and game-over screens complete the loop.
